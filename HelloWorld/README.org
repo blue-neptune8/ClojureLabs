@@ -3,8 +3,13 @@
 #+EMAIL: [Your Email Address]
 #+STARTUP: showall
 
+
 * Welcome to HelloWorld 🌍👋
-Welcome to the 'HelloWorld' directory of ClojureLabs! Here, you'll find simple solutions and introductory examples as I embark on my journey learning Clojure. It's all about taking those first steps into the world of functional programming. Let's dive in! 🚀
+#+CAPTION: Embark on the Clojure journey!
+#+NAME: Fig:HelloWorldGraphic
+[[helloworld.png]]
+
+Welcome to the 'HelloWorld' directory of ClojureLabs! Here, you'll find simple solutions and introductory examples as I start my journey learning Clojure. It's all about taking those first steps into the world of functional programming. Let's dive in! 🚀
 
 * Table of Contents
 - [[#welcome-to-helloworld-🌍👋][Welcome]]
