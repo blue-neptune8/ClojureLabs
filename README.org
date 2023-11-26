@@ -7,6 +7,9 @@
 :PROPERTIES:
 :CUSTOM_ID: introduction
 :END:
+
+[[file:desk.png]]
+
 Welcome to ClojureLabs, my personal adventure into the world of Clojure. This repository is a tapestry of my explorations, projects, and challenges in functional programming. It is a reflection of my growth and discoveries within the vibrant ecosystem of Clojure.
 
 * Table of Contents
