@@ -36,7 +36,7 @@ Below is a table of my solutions to the Advent of Code challenges, showcasing th
 :END:
 This section contains a curated list of my small-scale projects and coding explorations.
 
-- [[./path/to/project1][Project 1]] - A brief description of Project 1.
+- [[./ClojureLabs/HelloWorld/][Hello World]] - First look into Clojure - elementary projects 
 - [[./path/to/project2][Project 2]] - A brief description of Project 2.
 # Add more projects as needed
 
